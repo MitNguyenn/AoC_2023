@@ -23,6 +23,5 @@ for i in range(len(num)):
                 
         if temp < position:
             position = temp
-    print(num[i], temp)
 print(position)
                     
